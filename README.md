@@ -1,3 +1,4 @@
 # Understanding Computation
 
-practice lamda calculate
+what is programming code and how it works
+
